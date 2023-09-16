@@ -2193,41 +2193,6 @@ a {
 .cid-sVUwaIYFGT .media-container-row .mbr-text {
   color: #ff9966;
 }
-.cid-tPVwjBNvmB {
-  background-image: linear-gradient(135deg, #e43f3f 10%, #4479d9 100%) !important;
-}
-.cid-tPVwxJJhaE {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/background8.jpg");
-}
-.cid-tPVwxJJhaE .card-wrapper {
-  background: #ff8a8a;
-  border-radius: 4px;
-}
-@media (max-width: 767px) {
-  .cid-tPVwxJJhaE .card-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-tPVwxJJhaE .card-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tPVwxJJhaE .card-wrapper {
-    padding: 4rem;
-  }
-}
-.cid-tPVwxJJhaE .mbr-text,
-.cid-tPVwxJJhaE .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-tPVwxJJhaE .card-title,
-.cid-tPVwxJJhaE .card-box {
-  text-align: left;
-}
 .cid-tPVwjCs8Fi {
   background-image: linear-gradient(135deg, #e43f3f 10%, #4479d9 100%) !important;
 }
